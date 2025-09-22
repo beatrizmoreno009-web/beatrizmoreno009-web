@@ -9,5 +9,4 @@
 - 💬 Ask me about Node.js.
 - 📫 How to reach me: beatrizmoreno009-web.
 - 😄 Pronouns: She, Her.
-- ⚡ Fun fact: I love watching youtube. 
-
+- ⚡ Fun fact: I love watching youtube...
